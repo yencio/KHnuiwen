@@ -52,7 +52,7 @@
 
 ## 下载
 
-[康熙内文字](releases/tag/khnuiwen-v1.0)
+[康熙内文字](https://github.com/yencio/KHnuiwen/releases/tag/khnuiwen-v1.0)
 
 ## 展望
 
